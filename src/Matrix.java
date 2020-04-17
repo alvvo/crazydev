@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Matrix {
     private int weight;
     private int height;
+    // Двумерный массив всех ячеек матрицы
     private int[][] data;
     public Matrix(){
         weight = 0; height = 0;
